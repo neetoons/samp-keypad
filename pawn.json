@@ -1,7 +1,7 @@
 {
 	"user": "neetoons",
 	"repo": "samp-keypad",
-	"tag": 1.1.0",
+	"tag": "1.1.0",
 	"entry": "test.pwn",
 	"output": "gamemodes/test.amx"
 }
